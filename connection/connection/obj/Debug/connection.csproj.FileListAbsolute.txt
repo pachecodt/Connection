@@ -1,0 +1,6 @@
+c:\users\pacheco\source\repos\connection\connection\bin\Debug\connection.dll
+c:\users\pacheco\source\repos\connection\connection\bin\Debug\connection.pdb
+c:\users\pacheco\source\repos\connection\connection\obj\Debug\connection.csprojAssemblyReference.cache
+c:\users\pacheco\source\repos\connection\connection\obj\Debug\connection.csproj.CoreCompileInputs.cache
+c:\users\pacheco\source\repos\connection\connection\obj\Debug\connection.dll
+c:\users\pacheco\source\repos\connection\connection\obj\Debug\connection.pdb
