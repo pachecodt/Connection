@@ -1,6 +1,5 @@
 ## Informations
 * [About](#about)
-* [Try it](#tryit)
 
 # About
 
