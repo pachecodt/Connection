@@ -3,4 +3,4 @@
 
 # About
 
-Library for easily connect to different types of DataBase
+Library to easily connect to different types of databases.
